@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948369799009",
+    "project_id": "fzcalls",
+    "storage_bucket": "fzcalls.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948369799009:android:bf8302c95795af65bcf720",
+        "android_client_info": {
+          "package_name": "com.example.fzcalls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948369799009-0j12j65bt35qpnjrsco63pbphm95v148.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmSZkJ6DUm1u5Nj8uAw8J6ARaMIey2jzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948369799009-0j12j65bt35qpnjrsco63pbphm95v148.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
